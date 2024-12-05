@@ -1,0 +1,15 @@
+{
+  "name": "datacom_locations",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^13.16.1",
+    "mochawesome": "^7.0.1",
+    "mochawesome-report-generator": "^6.0.1"
+  },
+  "dependencies": {
+    "mocha-junit-reporter": "^2.0.2",
+    "mocha-multi-reporters": "^1.5.1",
+    "mochawesome-merge": "^4.2.1"
+  }
+}

@@ -1,0 +1,66 @@
+{
+    "adelaide": {
+        "name": "Adelaide",
+        "address": "118 Franklin Street, Adelaide, South Australia 5000",
+        "directionLink": "https://www.google.com/maps/place/Datacom+Systems+AU/@-34.9269416,138.5925063,17z/data=!3m2!4b1!5s0x6ab0cf2689515c65:0xc23f26ce9bc8f1f8!4m5!3m4!1s0x6b9150a46d37cc6d:0x9c259e60629cb6a!8m2!3d-34.926946!4d138.594695",
+        "phone": "+61 8 7221 7900",
+        "email": "contactsa@datacom.com.au",
+        "emailLink": "mailto:contactsa@datacom.com.au"
+    },
+    "brisbane": {
+        "name": "Brisbane",
+        "address": "501 Ann Street, Fortitude Valley, Brisbane, Queensland 4006",
+        "directionLink": "https://www.google.com/maps/place/Datacom+Systems+Queensland/@-27.4617905,153.0298224,17z/data=!3m1!4b1!4m5!3m4!1s0x6b9150a46d37cc6d:0x87e74afdb663e9d0!8m2!3d-27.4617953!4d153.0320111",
+        "phone": "+61 7 3842 8888",
+        "email": "qldsales@datacom.com.au",
+        "emailLink": "mailto:qldsales@datacom.com.au"
+    },
+    "canberra": {
+        "name": "Canberra",
+        "address": "Level 12, Civic Quarter, 68 Northbourne Ave, Canberra, ACT 2601",
+        "directionLink": "https://www.google.com/maps/place/Civic+Quarter/@-35.2766771,149.1280448,17z/data=!4m9!1m2!2m1!1sDatacom+68+Northbourne+Avenue,+Canberra+ACT,+Australia!3m5!1s0x6b164d990fa7a7ed:0x97ac271e7ab17467!8m2!3d-35.2767339!4d149.1305979!15sCjZEYXRhY29tIDY4IE5vcnRoYm91cm5lIEF2ZW51ZSwgQ2FuYmVycmEgQUNULCBBdXN0cmFsaWEiA4gBAVo2IjRkYXRhY29tIDY4IG5vcnRoYm91cm5lIGF2ZW51ZSBjYW5iZXJyYSBhY3QgYXVzdHJhbGlhkgEQY29ycG9yYXRlX29mZmljZQ",
+        "phone": "+61 2 6112 0200",
+        "email": "contactact@datacom.com.au",
+        "emailLink": "mailto:contactact@datacom.com.au"
+    },
+    "melbourne": {
+        "name": "Melbourne",
+        "address": "Level 11, Two Melbourne Quarter, 697 Collins Street, Docklands, Victoria 3008",
+        "directionLink": "https://www.google.com/maps/place/Two+Melbourne+Quarter/@-37.8198021,144.9496341,17z/data=!3m1!4b1!4m5!3m4!1s0x6ad65d5f0f07112b:0x1ce470283ce683ca!8m2!3d-37.8198064!4d144.9518228",
+        "phone": "+61 3 9626 9600",
+        "email": "vic-reception@datacom.com.au",
+        "emailLink": "mailto:vic-reception@datacom.com.au"
+    },
+    "modbury": {
+        "name": "Modbury",
+        "address": "100 Smart Road, Modbury, South Australia 5092",
+        "directionLink": "https://www.google.com/maps/place/Datacom/@-34.8321656,138.694008,17z/data=!3m1!4b1!4m5!3m4!1s0x6ab0b5109178ce9f:0xdac9dee085382e80!8m2!3d-34.83217!4d138.6961967",
+        "phone": "+61 8 8164 7600",
+        "email": "reception.adel@datacom.com.au",
+        "emailLink": "mailto:reception.adel@datacom.com.au"
+    },
+    "perth": {
+        "name": "Perth",
+        "address": "Level 11, 66 St. George's Terrace, Perth, Western Australia 6000",
+        "directionLink": "https://www.google.com/maps/place/Datacom/@-31.9549193,115.8564416,17z/data=!3m2!4b1!5s0x2a32bad6171a3b6f:0xfd1f90d77aed2607!4m5!3m4!1s0x2a32bb23f096b74f:0x52b27eefda532c8f!8m2!3d-31.9549239!4d115.8586303",
+        "phone": "+61 8 6466 6888",
+        "email": "wa.clientservices@datacom.com.au",
+        "emailLink": "mailto:wa.clientservices@datacom.com.au%20"
+    },
+    "sydney": {
+        "name": "Sydney — Denison Street",
+        "address": "Level 31, 1 Denison Street, North Sydney, Sydney, NSW 2060",
+        "directionLink": "https://www.google.co.nz/maps/place/Level+31%2F1+Denison+St,+North+Sydney+NSW+2060,+Australia/@-33.8383324,151.2076925,19z/data=!3m1!4b1!4m5!3m4!1s0x6b12aeed63ea0455:0xedcf7b53729d2237!8m2!3d-33.8383335!4d151.2082397",
+        "phone": "+61 2 9023 5000",
+        "email": "reception.denison@datacom.com.au",
+        "emailLink": "mailto:reception.denison@datacom.com.au"
+    },
+    "townsville": {
+        "name": "Townsville",
+        "address": "Lot 2, 264-278 Woolcock Street, Townsville, Queensland 4810",
+        "directionLink": "https://www.google.com/maps/place/Datacom+Systems/@-19.2710128,146.7732057,17z/data=!3m1!4b1!4m5!3m4!1s0x6bd5f9a525fcb5a3:0xc2d719ef8b0b5f87!8m2!3d-19.2710179!4d146.7753944",
+        "phone": "+61 7 4728 7800",
+        "email": "townsville@datacom.com.au",
+        "emailLink": "mailto:townsville@datacom.com.au"
+    }
+}

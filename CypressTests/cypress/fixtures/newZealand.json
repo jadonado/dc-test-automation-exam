@@ -1,0 +1,82 @@
+{
+    "auckland": {
+        "name": "Auckland",
+        "address": "58 Gaunt Street, Auckland CBD, Auckland 1010",
+        "directionLink": "https://www.google.com/maps/place/Datacom/@-36.8445875,174.7526463,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d47ef1e1ac11b:0xc74b666e293edd41!8m2!3d-36.8445918!4d174.754835",
+        "phone": "+64 9 303 1489",
+        "email": "reception.gaunt@datacom.co.nz",
+        "emailLink": "mailto:reception.gaunt@datacom.co.nz"
+    },
+    "christchurch": {
+        "name": "Christchurch",
+        "address": "67 Gloucester Street, Christchurch 8013",
+        "directionLink": "https://www.google.com/maps/place/Datacom+Christchurch/@-43.529658,172.629724,17z/data=!3m1!4b1!4m5!3m4!1s0x6d318a3eaaca0255:0xb42f375e6317fb5c!8m2!3d-43.5296619!4d172.6319127",
+        "phone": "+64 3 379 7775",
+        "email": "reception.christchurch@datacom.co.nz",
+        "emailLink": "mailto:reception.christchurch@datacom.co.nz"
+    },
+    "dunedin": {
+        "name": "Dunedin",
+        "address": "Level 1, 77 Vogel Street, Dunedin 9011",
+        "directionLink": "https://www.google.com/maps/place/Level+1%2F77+Vogel+Street,+Central+Dunedin,+Dunedin+9011,+New+Zealand/@-45.8797626,170.5012531,17z/data=!3m1!4b1!4m5!3m4!1s0xa82eac1020f1bcad:0x1a6430c412592fa1!8m2!3d-45.8797626!4d170.5034418?entry=ttu",
+        "phone": "+64 3 379 7775",
+        "email": "reception.christchurch@datacom.co.nz",
+        "emailLink": "mailto:reception.christchurch@datacom.co.nz"
+    },
+    "hamilton": {
+        "name": "Hamilton",
+        "directionLink": "https://www.google.com/maps/place/Level+2%2F94+Bryce+Street,+Hamilton+Central,+Hamilton+3204/@-37.786777,175.2743567,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6d18a66e67038f:0x6fb4e84d65308f54!8m2!3d-37.7867813!4d175.2765454",
+        "address": "Level 2, 94 Bryce Street, Hamilton 3204",
+        "phone": "+64 7 834 1666",
+        "email": "reception.hamilton@datacom.co.nz",
+        "emailLink": "mailto:reception.hamilton@datacom.co.nz"
+    },
+    "hastings": {
+        "name": "Hastings",
+        "address": "2/117 Heretaunga Street East, Hastings 4122",
+        "directionLink": "https://www.google.com/maps/dir/117+Heretaunga+Street+East,+Hastings+4122,+New+Zealand/-39.6425512,176.8437033/@-39.6425595,176.8411069,17z/data=!4m9!4m8!1m5!1m1!1s0x6d69ca484ca75e8b:0x6c4ca6259e19b34a!2m2!1d176.8436818!2d-39.6425595!1m0!3e0?entry=ttu&g_ep=EgoyMDI0MDkxNS4wIKXMDSoASAFQAw%3D%3D",
+        "phone": "+64 6 835 0793",
+        "email": "reception.hamilton@datacom.co.nz",
+        "emailLink": "mailto:reception.hamilton@datacom.co.nz"
+    },
+    "nelson": {
+        "name": "Nelson",
+        "address": "Level 1, 190 Trafalgar Street, Nelson 7010",
+        "directionLink": "https://www.google.com/maps/place/Level+1%2F190+Trafalgar+Street,+Nelson+7010/@-41.27281,173.2815139,17z/data=!3m1!4b1!4m5!3m4!1s0x6d3bed0e33f65503:0xc1504a944bed1a08!8m2!3d-41.2728141!4d173.2837026",
+        "phone": "+64 3 546 5558",
+        "email": "reception.nelson@datacom.co.nz",
+        "emailLink": "mailto:reception.nelson@datacom.co.nz"
+    },
+    "newPlymouth": {
+        "name": "New Plymouth",
+        "address": "Level 1, 2 Devon Street East, New Plymouth 4310",
+        "directionLink": "https://www.google.co.nz/maps/place/Level+1%2F2+Devon+Street+East,+New+Plymouth+Central,+New+Plymouth+4310/@-39.058155,174.0724113,19.33z/data=!4m5!3m4!1s0x6d144e45a8a7c195:0x5d12ab91dd3b0487!8m2!3d-39.0579674!4d174.0725283",
+        "phone": "+64 7 834 1666",
+        "email": "reception.hamilton@datacom.co.nz",
+        "emailLink": "mailto:reception.hamilton@datacom.co.nz"
+    },
+    "rotorua": {
+        "name": "Rotorua",
+        "address": "8 Railway Road, Rotorua 3015",
+        "directionLink": "https://www.google.com/maps/place/Datacom+Rotorua/@-38.1251433,176.2327524,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6c279a96d906f5:0xb50b63ec600ffc96!8m2!3d-38.1251475!4d176.2349411",
+        "phone": "+64 7 834 1666",
+        "email": "reception.hamilton@datacom.co.nz",
+        "emailLink": "mailto:reception.hamilton@datacom.co.nz"
+    },
+    "tauranga": {
+        "name": "Tauranga",
+        "address": "15-17 Harington Street, Tauranga 3110",
+        "directionLink": "https://www.google.com/maps/place/Datacom/@-37.6813021,176.1669472,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6ddbdd76253439:0xdf608e1db0093859!8m2!3d-37.6813064!4d176.1691359",
+        "phone": "+64 7 834 1666",
+        "email": "reception.tauranga@datacom.co.nz",
+        "emailLink": "mailto:reception.tauranga@datacom.co.nz"
+    },
+    "wellington": {
+        "name": "Wellington",
+        "address": "55 Featherston Street, Pipitea, Wellington 6011,",
+        "directionLink": "https://www.google.com/maps/place/55+Featherston+Street,+Pipitea,+Wellington+6011,+New+Zealand/@-41.2800092,174.7765693,17z/data=!3m1!4b1!4m6!3m5!1s0x6d38ae2c7b044613:0x8c987039841969a!8m2!3d-41.2800092!4d174.7791442!16s%2Fg%2F11c2c4wqz9?entry=ttu",
+        "phone": "+64 4 460 1500",
+        "email": "reception.wellington@datacom.co.nz",
+        "emailLink": "mailto:reception.wellington@datacom.co.nz%20"
+    }
+}

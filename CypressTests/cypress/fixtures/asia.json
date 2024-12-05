@@ -1,0 +1,26 @@
+{
+    "malaysia": {
+        "name": "Malaysia",
+        "address": "Level 3A, 1 Sentral, Jalan Rakyat, Kuala Lumpur Sentral, Kuala Lumpur 50470",
+        "directionLink": "https://www.google.com/maps/place/Datacom+Systems+(Asia)+Sdn+Bhd/@3.1313986,101.6812494,17z/data=!3m1!4b1!4m5!3m4!1s0x31cc4ec88a155457:0x5abd916580cdab04!8m2!3d3.1313932!4d101.6834381",
+        "phone": "+60 3 2109 1000",
+        "email": "info-kl@datacom.com.au",
+        "emailLink": "mailto:info-kl@datacom.com.au%20"
+    },
+    "philippines": {
+        "name": "Philippines",
+        "address": "Level 23F, IBM Plaza, 8 Eastwood Ave, Bagumbayan, Quezon City, 1110 Metro Manila, Philippines",
+        "directionLink": "https://www.google.com/maps/place/Datacom+IT+Systems+(Phil)+Inc/@14.607631,121.0775972,17z/data=!3m1!4b1!4m5!3m4!1s0x3397b81d5c3174b1:0x348eec51c0dc13f6!8m2!3d14.6076258!4d121.0797859",
+        "phone": "+63 2 717 6300",
+        "email": "caracamille.cruz@datacom.com.au",
+        "emailLink": "mailto:caracamille.cruz@datacom.com.au"
+    },
+    "singapore": {
+        "name": "Singapore",
+        "address": "38 Beach Road, South Beach Tower, #29-11 Singapore 189767",
+        "directionLink": "https://www.google.com/maps/place/South+Beach+Tower/@1.2952129,103.8563797,19.5z/data=!4m12!1m6!3m5!1s0x31da191278aec65b:0x2ff2313b2ede5a79!2sTMF+SINGAPORE+H+PTE.+LTD.!8m2!3d1.2956371!4d103.8566006!3m4!1s0x31da19af801edee5:0x768e2b207b22e153!8m2!3d1.2955984!4d103.8563964",
+        "phone": "+60 3 2109 1000",
+        "email": "felicisimo.gadaingan@datacom.com.au",
+        "emailLink": "mailto:felicisimo.gadaingan@datacom.com.au"
+    }
+}
