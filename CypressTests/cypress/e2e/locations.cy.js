@@ -2,7 +2,7 @@ import { OurLocations } from "../support/pageObjects/locations";
 
 const ourLocations = new OurLocations();
 
-describe("template spec", () => {
+describe("Datacom Locations Section Tests", () => {
     let asiaTestData;
     let ausTestData;
     let nzTestData;
