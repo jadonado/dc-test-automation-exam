@@ -1,3 +1,8 @@
+Notes:
+-Run in Electron Browser please.
+-Actual test starts at around 45 seconds mark (due to cy.visit)
+
+
 Test Case: should verify locations section
 
 Step 1 - Verify the section header text
@@ -40,7 +45,5 @@ Step 5 - Verify the information for each locations in New Zealand
             b. Verify that previous section is collapsed when clicking a new section/location
 
 Google Maps widget can be tested using visual testing in Cypress.
-
 This involves taking snapshots of the map and comparing them to baseline images to detect any visual changes.
-
 However, it may require high maintenance because maps can change frequently due to updates in map data, styles, or other dynamic content.
