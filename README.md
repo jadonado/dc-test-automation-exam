@@ -1,6 +1,6 @@
 Notes:
--Run in Electron Browser please.
--Actual test starts at around 45 seconds mark (due to cy.visit)
+*Run in Electron Browser please.
+*Actual test starts at around 45 seconds mark (due to cy.visit)
 
 
 Test Case: should verify locations section
